@@ -2,4 +2,4 @@
 Counters with logical links
 
 ###Todo
-- [] Complete project
+- Complete project
